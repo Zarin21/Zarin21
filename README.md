@@ -26,3 +26,25 @@ I'm Zarin Subah, a second year student at University of Alberta interested in Ar
     </td>
   </tr>
 </table>
+
+## Hackathon Projects
+<table style="width: 100%; text-align: center; border-collapse: collapse;">
+  <tr>
+    <td width="50%" style="vertical-align: middle; padding: 20px;">
+      CHADS - Hack The Computer - Open The Box
+    </td>
+    <td width="50%" style="vertical-align: middle; padding: 20px;">
+      3rd Place 🏆
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="vertical-align: middle; padding: 20px;">
+      MagpieCTF - University of Calgary
+    </td>
+    <td width="50%" style="vertical-align: middle; padding: 20px;">
+      3rd Place 🏆
+    </td>
+  </tr>
+</table>
+
+
