@@ -7,7 +7,7 @@ I'm Zarin Subah, a second year student at University of Alberta interested in Ar
 <table style="width: 100%; text-align: center; border-collapse: collapse;">
   <tr>
     <td width="50%" style="vertical-align: middle; padding: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=349gill&repo=doodle" alt="Repo Card" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=349gill&repo=doodle&theme=jolly" alt="Repo Card" width="100%"/>
     </td>
     <td width="50%" style="vertical-align: middle; padding: 20px;">
       <h3 style="margin: 0;">HackEd Beta 2024</h3>
@@ -17,7 +17,7 @@ I'm Zarin Subah, a second year student at University of Alberta interested in Ar
   </tr>
   <tr>
     <td width="50%" style="vertical-align: middle; padding: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tinker-app&repo=tinker" alt="Repo Card" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tinker-app&repo=tinker&theme=jolly" alt="Repo Card" width="100%"/>
     </td>
     <td width="50%" style="vertical-align: middle; padding: 20px;">
       <h3 style="margin: 0;">HackEd 2025</h3>
