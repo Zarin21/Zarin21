@@ -30,23 +30,28 @@ I'm Zarin Subah, a second year student at University of Alberta interested in Ar
 ## Capture The Flag Competitions
 <table style="width: 100%; text-align: center; border-collapse: collapse;">
   <tr>
-    <td width="50%" style="vertical-align: middle; padding: 20px;">
-      CHADS - Hack The Computer - Open The Box
-    </td>
-    <td width="50%" style="vertical-align: middle; padding: 20px;">
-      <b>3rd Place</b> 🏆
-    </td>
+    <table>
+      <tr>
+        <td width="50%" style="vertical-align: middle; padding: 20px;">
+          CHADS - Hack The Computer - Open The Box
+        </td>
+        <td width="50%" style="vertical-align: middle; padding: 20px;">
+          <b>3rd Place</b> 🏆
+        </td>
+      </tr>
+      <tr>
+        <td width="50%" style="vertical-align: middle; padding: 20px;">
+          Magpie CTF - University of Calgary
+        </td>
+        <td width="50%" style="vertical-align: middle; padding: 20px;">
+          <b>3rd Place</b> 🏆
+        </td>
+      </tr>
+    </table>
   </tr>
   <tr>
-    <td width="50%" style="vertical-align: middle; padding: 20px;">
-      Magpie CTF - University of Calgary
-    </td>
-    <td width="50%" style="vertical-align: middle; padding: 20px;">
-      <b>3rd Place</b> 🏆
-    </td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarin21&theme=jolly" alt="Top Languages" width="100%"/>
   </tr>
 </table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarin21&theme=jolly" alt="Top Languages" width="100%"/>
 
 
