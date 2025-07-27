@@ -47,7 +47,7 @@ I'm Zarin Subah, a second year student at University of Alberta interested in Ar
     </tr>
 </table>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarin21&theme=jolly" alt="Top Languages" width="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarin21&theme=jolly" alt="Top Languages" width="45%"/>
 
     
 
