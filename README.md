@@ -29,8 +29,6 @@ I'm Zarin Subah, a second year student at University of Alberta interested in Ar
 
 ## Capture The Flag Competitions
 <table style="width: 100%; text-align: center; border-collapse: collapse;">
-  <tr>
-    <table>
       <tr>
         <td width="50%" style="vertical-align: middle; padding: 20px;">
           CHADS - Hack The Computer - Open The Box
@@ -48,10 +46,4 @@ I'm Zarin Subah, a second year student at University of Alberta interested in Ar
         </td>
       </tr>
     </table>
-  </tr>
-  <tr>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarin21&theme=jolly" alt="Top Languages" width="100%"/>
-  </tr>
-</table>
-
 
