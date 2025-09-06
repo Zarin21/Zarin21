@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Zarin Subah, a second year student at University of Alberta interested in Artificial Intelligence and Cybersecurity.
+I'm Zarin Subah, a second year student at University of Alberta interested in Artificial Intelligence & Software Development.
 <a href="https://www.linkedin.com/in/zsubah/">Contact me</a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarin21&theme=jolly" alt="Top Languages" width="40%"/>
