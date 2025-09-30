@@ -6,7 +6,7 @@ I'm Zarin, a third year student at University of Alberta interested in Artificia
 <table>
   <tr>
  
-  <td width="45%" align="center">
+  <td width="45%">
       
   ### Skills
   
