@@ -8,7 +8,7 @@ I'm Zarin, a third year student at University of Alberta interested in Artificia
  
   <td width="45%">
       
-  ### Skills
+  ### Languages & Tools
   
   [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
   [![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)](#)
