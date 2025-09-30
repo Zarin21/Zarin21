@@ -6,7 +6,7 @@ I'm Zarin, a third year student at University of Alberta interested in Artificia
 <table>
   <tr>
  
-  <td width="75%" align="center">
+  <td width="65%" align="center">
       
   ### Skills
   
@@ -19,9 +19,8 @@ I'm Zarin, a third year student at University of Alberta interested in Artificia
   
   </td>
 
-   <td width="25%" align="center">
+   <td width="35%" align="center">
      
-  ### Most Used  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarin21&layout=donut&theme=jolly" alt="Top Languages" />
 
    </td>
