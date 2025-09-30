@@ -8,7 +8,7 @@ I'm Zarin, a third year student at University of Alberta interested in Artificia
  
   <td width="75%" align="center">
       
-  ### 🛠️ Skills
+  ### Skills
   
   [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
   [![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)](#)
@@ -21,7 +21,7 @@ I'm Zarin, a third year student at University of Alberta interested in Artificia
 
    <td width="25%" align="center">
      
-  ### 📊 Most Used  
+  ### Most Used  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarin21&layout=donut&theme=jolly" alt="Top Languages" />
 
    </td>
