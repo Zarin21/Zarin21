@@ -9,24 +9,22 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
   <td width="45%">
       
   ### Languages & Tools
-  [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
-  [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
   [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+  [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-  [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](#)
   [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+  [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](#)
+  [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
   [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
   [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
   [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-  [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
-  [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
   [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
   [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
-  [![Express](https://img.shields.io/badge/Node.js-6DA55F?logo=express.js&logoColor=white)](#)
   [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+  [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+  [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
   [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
   </td>
-  
 
    <td width="45%" align="center">
      
