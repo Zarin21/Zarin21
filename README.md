@@ -21,6 +21,10 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
   [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
   [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 
+  </td>
+
+   <td width="45%" align="center">
+     
   ### Databases
   [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
   [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
@@ -34,12 +38,6 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
   ### Infrastructure
   [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
   [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
-
-  </td>
-
-   <td width="45%" align="center">
-     
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarin21&layout=donut&theme=jolly" alt="Top Languages" />
 
    </td>
   </tr>
