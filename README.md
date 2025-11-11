@@ -106,6 +106,3 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
         </td>
     </tr>
 </table>
-
-    
-
