@@ -23,7 +23,7 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
 
   </td>
 
-   <td width="30%" align="left">
+  <td width="30%" align="left">
      
   ### Databases
   [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
@@ -43,7 +43,7 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
   </tr>
   
   <tr width="30%" align="left">
-    https://github-readme-stats.vercel.app/api/top-langs/?username=Zarin21&theme=jolly
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarin21&theme=jolly" width="100%"/>
   </tr>
 </table>
 
