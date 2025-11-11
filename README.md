@@ -11,15 +11,15 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
   [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
   [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
   [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
 
   ### Frameworks and Tools
   [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](#)
+  [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
   [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
   [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
   [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
-  [![Express](https://img.shields.io/badge/Node.js-6DA55F?logo=express.js&logoColor=white)](#)
-  [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 
   ### Databases
   [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
