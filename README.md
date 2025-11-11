@@ -23,7 +23,7 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
 
   </td>
 
-   <td width="45%" align="center">
+   <td width="45%" align="left">
      
   ### Databases
   [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
