@@ -5,7 +5,7 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
 
 <table>
   <tr>
-  <td width="45%">
+  <td width="30%">
       
   ### Programming Languages
   [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
@@ -23,7 +23,7 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
 
   </td>
 
-   <td width="45%" align="left">
+   <td width="30%" align="left">
      
   ### Databases
   [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
@@ -40,6 +40,10 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
   [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 
    </td>
+  </tr>
+  
+  <tr width="30%" align="left">
+    https://github-readme-stats.vercel.app/api/top-langs/?username=Zarin21&theme=jolly
   </tr>
 </table>
 
