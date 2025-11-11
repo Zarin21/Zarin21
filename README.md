@@ -6,6 +6,7 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
 <table>
   <tr>
   <td width="30%">
+    
   ### Programming Languages
   [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
   [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
@@ -23,6 +24,7 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
   </td>
 
   <td width="30%" align="left">
+    
   ### Databases
   [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
   [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
