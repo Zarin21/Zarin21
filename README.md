@@ -40,10 +40,11 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
   [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 
    </td>
-  </tr>
   
-  <tr width="30%" align="left">
+  <td width="30%" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarin21&theme=jolly" width="100%"/>
+  </td>
+
   </tr>
 </table>
 
