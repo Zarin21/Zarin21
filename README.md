@@ -43,7 +43,7 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
    </td>
   
   <td width="30%" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarin21&theme=jolly" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarin21" width="100%"/>
   </td>
 
   </tr>
