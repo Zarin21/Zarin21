@@ -57,8 +57,8 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeFocus&repo=regression-model&theme=jolly" alt="Repo Card" width="100%"/>
     </td>
     <td width="50%" style="vertical-align: middle; padding: 20px;">
-      <h3 style="margin: 0;">HackEd Beta 2025</h3>
-      We built a neuroscience-driven app that uses EEG brainwaves and pupil tracking to infer real-time focus levels 
+      <h3 style="margin: 0;">natHacks 2025</h3>
+      We built an applied-neuroscience app that uses EEG brainwaves and pupil tracking to infer real-time focus levels 
       Built with FastAPI, React, and XGBoost, it enables users to visualize focus levels and compete with friends in live 
       focus sessions through synchronized EEG and eye-tracking data.
     </td>
