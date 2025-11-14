@@ -1,4 +1,4 @@
-# Hello!
+# Hey!👋
 
 I'm Zarin, a third year student at University of Alberta interested in Software Development.
 <a href="https://www.linkedin.com/in/zsubah/">Contact me</a>
