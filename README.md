@@ -1,6 +1,6 @@
 # Hey!👋
 
-I'm Zarin, a third year student at University of Alberta interested in Software Development.
+I'm Zarin, a third year student at University of Alberta interested in Software Development and Machine Learning.
 <a href="https://www.linkedin.com/in/zsubah/">Contact me</a>
 
 <table>
