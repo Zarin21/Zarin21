@@ -104,5 +104,13 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
         <td width="50%" style="vertical-align: middle; padding: 20px;">
           <b>3rd Place</b> 🏆
         </td>
-    </tr>
+      </tr>
+      <tr>
+        <td width="50%" style="vertical-align: middle; padding: 20px;">
+          Vault 403 - SAIT
+        </td>
+        <td width="50%" style="vertical-align: middle; padding: 20px;">
+          <b>4th Place</b> 🏆
+        </td>
+      </tr>
 </table>
