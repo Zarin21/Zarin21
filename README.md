@@ -1,70 +1,116 @@
-# Getting Started with Create React App
+# Hey!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I'm Zarin, a third year student at University of Alberta interested in Software Development and Machine Learning.
+<a href="https://www.linkedin.com/in/zsubah/">Contact me</a>
 
-## Available Scripts
+<table>
+  <tr>
+  <td width="30%">
+    
+  ### Programming Languages
+  [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+  [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+  [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 
-In the project directory, you can run:
+  ### Frameworks and Tools
+  [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](#)
+  [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+  [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+  [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+  [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 
-### `npm start`
+  </td>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  <td width="30%" align="left">
+    
+  ### Databases
+  [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+  [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+  [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  ### Machine Learning
+  [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
+  [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+  [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
+  
+  ### Infrastructure
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+  [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 
-### `npm test`
+   </td>
+  
+  <td width="30%" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarin21" width="100%"/>
+  </td>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  </tr>
+</table>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Hackathon Projects
+<table style="width: 100%; text-align: center; border-collapse: collapse;">
+  <tr>
+    <td width="50%" style="vertical-align: middle; padding: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeFocus&repo=regression-model&theme=jolly" alt="Repo Card" width="100%"/>
+    </td>
+    <td width="50%" style="vertical-align: middle; padding: 20px;">
+      <h3 style="margin: 0;">natHacks 2025</h3>
+      We built an applied-neuroscience app that uses EEG brainwaves and pupil tracking to infer real-time focus levels 
+      Built with FastAPI, React, and XGBoost, it enables users to visualize focus levels and compete with friends in live 
+      focus sessions through synchronized EEG and eye-tracking data.
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" style="vertical-align: middle; padding: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tinker-app&repo=tinker&theme=jolly" alt="Repo Card" width="100%"/>
+    </td>
+    <td width="50%" style="vertical-align: middle; padding: 20px;">
+      <h3 style="margin: 0;">HackEd 2025</h3>
+      Tinker is an Android app that makes electronics shopping easier by using Machine Learning Algorithms (Stochastic Gradient Descent)
+      to help you find the best match for your needs.
+    </td>
+  </tr>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  <tr>
+    <td width="50%" style="vertical-align: middle; padding: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=349gill&repo=doodle&theme=jolly" alt="Repo Card" width="100%"/>
+    </td>
+    <td width="50%" style="vertical-align: middle; padding: 20px;">
+      <h3 style="margin: 0;">HackEd Beta 2024</h3>
+      Doodle is a schedule-making app that utilizes advanced Operating Systems algorithms (MLFQ) to help you optimize your schedule.
+      Built with Python, JavaScript, Flask, Postgres.
+    </td>
+  </tr>
+</table>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Capture The Flag Competitions
+<table style="width: 100%; text-align: center; border-collapse: collapse;">
+      <tr>
+        <td width="50%" style="vertical-align: middle; padding: 20px;">
+          CHADS - Hack The Computer - Open The Box
+        </td>
+        <td width="50%" style="vertical-align: middle; padding: 20px;">
+          <b>3rd Place</b> 🏆
+        </td>
+      </tr>
+      <tr>
+        <td width="50%" style="vertical-align: middle; padding: 20px;">
+          Magpie CTF - University of Calgary
+        </td>
+        <td width="50%" style="vertical-align: middle; padding: 20px;">
+          <b>3rd Place</b> 🏆
+        </td>
+      </tr>
+      <tr>
+        <td width="50%" style="vertical-align: middle; padding: 20px;">
+          Vault 403 - SAIT
+        </td>
+        <td width="50%" style="vertical-align: middle; padding: 20px;">
+          <b>4th Place</b> 🏆
+        </td>
+      </tr>
+</table>
