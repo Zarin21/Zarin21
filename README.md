@@ -41,10 +41,11 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
   [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 
    </td>
-  
+<!--  
   <td width="30%" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarin21" width="100%"/>
   </td>
+-->
 
   </tr>
 </table>
@@ -54,7 +55,7 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
 <table style="width: 100%; text-align: center; border-collapse: collapse;">
   <tr>
     <td width="50%" style="vertical-align: middle; padding: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeFocus&repo=regression-model" alt="Repo Card" width="100%"/>
+      <a href="https://github-readme-stats.vercel.app/api/pin/?username=LeFocus&repo=regression-model">Focus tracking with ML</a>
     </td>
     <td width="50%" style="vertical-align: middle; padding: 20px;">
       <h3 style="margin: 0;">natHacks 2025</h3>
@@ -66,7 +67,7 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
   
   <tr>
     <td width="50%" style="vertical-align: middle; padding: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tinker-app&repo=tinker" alt="Repo Card" width="100%"/>
+      <a href="https://github-readme-stats.vercel.app/api/pin/?username=tinker-app&repo=tinker">Recommendation Algorithm for Electronics on Amazon</a>
     </td>
     <td width="50%" style="vertical-align: middle; padding: 20px;">
       <h3 style="margin: 0;">HackEd 2025</h3>
@@ -77,7 +78,7 @@ I'm Zarin, a third year student at University of Alberta interested in Software 
 
   <tr>
     <td width="50%" style="vertical-align: middle; padding: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=349gill&repo=doodle" alt="Repo Card" width="100%"/>
+      <a href="https://github-readme-stats.vercel.app/api/pin/?username=349gill&repo=doodle">Scheduling Software using OS Algorithms</a>
     </td>
     <td width="50%" style="vertical-align: middle; padding: 20px;">
       <h3 style="margin: 0;">HackEd Beta 2024</h3>
